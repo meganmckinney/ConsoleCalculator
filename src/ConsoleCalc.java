@@ -1,8 +1,8 @@
 /**
  * 
- * @author mmcki
+ * @author Megan McKinney
  *
- *Main class, holds the main method and is responsible for executing the calculator
+ * Main class, holds the main method and is responsible for executing the calculator.
  *
  */
 public class ConsoleCalc {
