@@ -1,7 +1,7 @@
 
 /**
  * 
- * @author mmcki
+ * @author Megan McKinney
  * 
  * This interface provides the model for each type of mathematical operation.
  *
